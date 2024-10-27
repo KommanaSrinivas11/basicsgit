@@ -1,4 +1,6 @@
 Hi iam srinivas kommana
 git hub basics
 
-Adding these lines in branch_one
+Changes made in branch_one branch
+
+changes made in remote repository
